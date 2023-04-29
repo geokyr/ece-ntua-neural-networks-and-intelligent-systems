@@ -34,7 +34,7 @@ We implemented recommenders based on the TF-IDF and Word2Vec algorithms, utilizi
 
 The third lab was about implementing and optimizing an image captioning system. The [Flickr30k](https://www.kaggle.com/hsankesara/flickr-image-dataset) dataset was used for this purpose.
 
-The image captioning system was based on a transformer-based model and BLEU score was used as the metric for optimization.
+The image captioning system was based on a transformer-based model, using the [TensorFlow](https://www.tensorflow.org/) library and BLEU score was used as the metric for optimization.
 
 The optimizations included:
 
