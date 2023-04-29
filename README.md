@@ -28,18 +28,18 @@ while for metrics it was mainly accuracy and F1 score.
 
 The second lab was about implementing a content-based recommender system for movies and creating a SOM for data visualization. The [Carnegie Mellon Movie Summary Corpus](http://www.cs.cmu.edu/~ark/personas/) dataset was used for this purpose. 
 
-We implemented recommenders based on the `TF-IDF` and `Word2Vec` algorithms, utilizing transfer learning for the `embeddings` from the [Gensim](https://radimrehurek.com/gensim/models/word2vec.html) library, for the latter. To train the SOM, we used the [Somoclu](https://somoclu.readthedocs.io/en/stable/index.html/) library.
+We implemented recommenders based on the TF-IDF and Word2Vec algorithms, utilizing transfer learning for the embeddings from the [Gensim](https://radimrehurek.com/gensim/models/word2vec.html) library, for the latter. To train the SOM, we used the [Somoclu](https://somoclu.readthedocs.io/en/stable/index.html/) library.
 
 ## Lab 03 - Deep Learning: Image Captioning
 
 The third lab was about implementing and optimizing an image captioning system. The [Flickr30k](https://www.kaggle.com/hsankesara/flickr-image-dataset) dataset was used for this purpose.
 
-The image captioning system was based on a `transformer-based model` and `BLEU score` was used as the metric for optimization.
+The image captioning system was based on a transformer-based model and BLEU score was used as the metric for optimization.
 
 The optimizations included:
 
-- trying different `encoders`
-- modifying the `preprocessing` of the captions
-- utilizing transfer learning for the `embeddings` from the [Gensim](https://radimrehurek.com/gensim/models/word2vec.html) library
-- using a `beam search` algorithm for sentence generation
-- trying different `hyperparameters` for the model
+- trying different encoders
+- modifying the preprocessing of the captions
+- utilizing transfer learning for the embeddings from the [Gensim](https://radimrehurek.com/gensim/models/word2vec.html) library
+- using a beam search algorithm for sentence generation
+- trying different hyperparameters for the model
