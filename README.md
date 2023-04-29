@@ -13,7 +13,16 @@ The first lab was about studying and optimizing classifiers on two different dat
 
 The optimization of the first dataset was done using exclusively the [scikit-learn](https://scikit-learn.org/stable/) library, while the second one was done using the [Optuna](https://optuna.org/) library.
 
-The classifiers used are the `Dummy`, `Gaussian Naive Bayes (GNB)`, `KNearestNeighbors (KNN)`, `Logistic Regression (LR)`, `Multi-Layer Perceptron (MLP)` and `Support Vector Machines (SVM)`, while for metrics, it was mainly `accuracy` and `F1 score`.
+The classifiers used were:
+
+- Dummy
+- Gaussian Naive Bayes (GNB)
+- KNearestNeighbors (KNN)
+- Logistic Regression (LR)
+- Multi-Layer Perceptron (MLP)
+- Support Vector Machines (SVM)
+
+while for metrics it was mainly accuracy and F1 score.
 
 ## Lab 02 - Unsupervised Learning: Content-Based Recommender System and SOM-Based Data Visualization
 
@@ -27,4 +36,10 @@ The third lab was about implementing and optimizing an image captioning system. 
 
 The image captioning system was based on a `transformer-based model` and `BLEU score` was used as the metric for optimization.
 
-The optimizations included trying different `encoders`, modifying the `preprocessing` of the captions, utilizing transfer learning for the `embeddings` from the [Gensim](https://radimrehurek.com/gensim/models/word2vec.html) library, using a `beam search` algorithm for sentence generation and trying different `hyperparameters` for the model.
+The optimizations included:
+
+- trying different `encoders`
+- modifying the `preprocessing` of the captions
+- utilizing transfer learning for the `embeddings` from the [Gensim](https://radimrehurek.com/gensim/models/word2vec.html) library
+- using a `beam search` algorithm for sentence generation
+- trying different `hyperparameters` for the model
