@@ -4,7 +4,7 @@ Lab Assignments for the [**Neural Networks and Intelligent Systems**](https://ww
 
 ## Team 44 - Members
 
-- [**Kyriakopoulos George**](https://github.com/geokyr)
+- [**Kyriakopoulos Georgios**](https://github.com/geokyr)
 - [**Tzelepis Serafeim**](https://github.com/sertze)
 
 ## Lab 01 - Supervised Learning: Classification
