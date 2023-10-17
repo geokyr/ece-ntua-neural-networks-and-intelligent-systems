@@ -7,6 +7,10 @@ Lab Assignments for the [Neural Networks and Intelligent Systems](https://www.ec
 - [Kyriakopoulos Georgios](https://github.com/geokyr)
 - [Tzelepis Serafeim](https://github.com/sertze)
 
+## Lab Assignments
+
+The 3 Lab Assignments that were completed are designed to explore a range of topics in the field of neural networks and intelligent systems, including supervised and unsupervised learning, recommender systems, self-organizing maps, and deep learning-based image captioning. These hands-on labs provide a practical understanding of neural networks and machine learning, providing valuable skills for real-world applications in this dynamic field.
+
 ## Lab 01 - Supervised Learning
 
 The first lab was about studying and optimizing classifiers on two different datasets, the [HCC Survival](https://archive.ics.uci.edu/ml/datasets/HCC+Survival) and the [kdd cyberattack](https://www.kaggle.com/datasets/slashtea/kdd-cyberattack) dataset.
