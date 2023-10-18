@@ -9,7 +9,7 @@ Lab Assignments for the [Neural Networks and Intelligent Systems](https://www.ec
 
 ## Lab Assignments
 
-The 3 Lab Assignments that were completed are designed to explore a range of topics in the field of neural networks and intelligent systems, including supervised and unsupervised learning, recommender systems, self-organizing maps, and deep learning-based image captioning. These hands-on labs provide a practical understanding of neural networks and machine learning, providing valuable skills for real-world applications in this dynamic field.
+The 3 lab assignments that were completed are designed to explore a range of topics in the field of neural networks and intelligent systems, including supervised and unsupervised learning, recommender systems, self-organizing maps, and deep learning-based image captioning. These hands-on labs provide a practical understanding of neural networks and machine learning, providing valuable skills for real-world applications in this dynamic field.
 
 ## Lab 01 - Supervised Learning
 
