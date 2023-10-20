@@ -1,4 +1,4 @@
-# ece-ntua-neural-networks
+# ece-ntua-neural-networks-and-intelligent-systems
 
 Lab Assignments for the [Neural Networks and Intelligent Systems](https://www.ece.ntua.gr/en/undergraduate/courses/3319) course, during the 9th semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
 
