@@ -4,8 +4,8 @@ Lab Assignments for the [Neural Networks and Intelligent Systems](https://www.ec
 
 ## Team 44 - Members
 
-- [Kyriakopoulos Georgios](https://github.com/geokyr)
-- [Tzelepis Serafeim](https://github.com/sertze)
+- [Georgios Kyriakopoulos](https://github.com/geokyr)
+- [Serafeim Tzelepis](https://github.com/sertze)
 
 ## Lab Assignments
 
