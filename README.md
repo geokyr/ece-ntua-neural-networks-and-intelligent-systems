@@ -2,7 +2,7 @@
 
 Lab Assignments for the [Neural Networks and Intelligent Systems](https://www.ece.ntua.gr/en/undergraduate/courses/3319) course, during the 9th semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
 
-## Team 44 - Members
+## Contributors
 
 - [Georgios Kyriakopoulos](https://github.com/geokyr)
 - [Serafeim Tzelepis](https://github.com/sertze)
